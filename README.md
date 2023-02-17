@@ -30,7 +30,7 @@
 
 <br>
 
-A tecnologia é uma paixão que vivo constantimente! 
+A tecnologia é uma paixão que vivo constantimente!!!
 
 
 
