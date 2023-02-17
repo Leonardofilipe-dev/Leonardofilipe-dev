@@ -2,9 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-filipe-36b589223/)
 
-
-
-![Leonardofilipe-dev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardofilipe-dev&theme=blue-green)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardofilipe-dev&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
@@ -30,6 +28,9 @@
 <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<br>
+
+A tecnologia é uma paixão que vivo constantimente! 
 
 
 
