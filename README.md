@@ -6,7 +6,7 @@
 
 
 
-## Tecnologias que ultilizo
+## Tecnologias que ultilizo!!!
 
 <div>
 
@@ -30,7 +30,7 @@
 
 <br>
 
-A tecnologia a paixão que vivo constantimente!!!
+Com foco inabalável e uma vontade insaciável de aprender, estou constantemente expandindo meu conhecimento e habilidades no mundo da programação!!!
 
 
 
