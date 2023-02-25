@@ -1,4 +1,4 @@
-### Eu sou o Leonardo Filipe. Tudo bem? 👋
+### Eu sou o Leonardo Filipe 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-filipe-36b589223/)
 
@@ -6,7 +6,7 @@
 
 
 
-## Tecnologias que ultilizo!!!
+## Tecnologias que ultilizo!
 
 <div>
 
@@ -30,7 +30,7 @@
 
 <br>
 
-Com foco inabalável e uma vontade insaciável de aprender, estou constantemente expandindo meu conhecimento e habilidades no mundo da programação!!!!!
+Com foco inabalável e uma vontade insaciável de aprender, estou constantemente expandindo meu conhecimento e habilidades no mundo da programação!
 
 
 
