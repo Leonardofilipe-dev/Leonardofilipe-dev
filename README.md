@@ -6,7 +6,7 @@
 
 
 
-## Tecnologias que ultilizo!!!
+## Tecnologias que ultilizo!
 
 <div>
 
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-Com foco inabalável e uma vontade insaciável de aprender, estou constantemente expandindo meu conhecimento e habilidades no mundo da programação!
+Com foco inabalável e uma vontade insaciável de aprender, estou constantemente expandindo meu conhecimento e habilidades no mundo da programação!!!
 
 
 
