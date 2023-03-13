@@ -2,6 +2,10 @@
 
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardofilipe-dev&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=leonardofilipe-dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofilipe-dev&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 
