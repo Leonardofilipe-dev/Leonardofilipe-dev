@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Filipe 👋
+### Hello! My Name is Leonardo! 👋
 
 
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 <br>
 
-Com foco inabalável e uma vontade insaciável de aprender, estou constantemente expandindo meu conhecimento e habilidades no mundo da programação!!!
+<p>With unwavering focus and an insatiable will to learn, I am constantly expanding my knowledge and skills in the world of programming!!!</p>
 
 
 
