@@ -31,7 +31,7 @@
 </div>
 <br>
 
-<p>With unwavering focus and an insatiable will to learn, I am constantly expanding my knowledge and skills in the world of programming!!!</p>
+<p>With unwavering focus and an insatiable will to learn, I am constantly expanding my knowledge and skills in the world of programming!</p>
 
 
 
