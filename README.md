@@ -1,4 +1,4 @@
-### Hello! My Name is Leonardo! 👋
+### Hello! My Name is Leonardo Filipe! 👋
 
 
 <div align="center">
@@ -9,8 +9,6 @@
 
 
 ## Skills!!!
-
-
 
 <div>
   <p>Frontend</p>
@@ -41,8 +39,7 @@
   
   <br>
  
-  
-</div>
+  </div>
 <br>
 
 <p>With unwavering focus and an insatiable will to learn, I am constantly expanding my knowledge and skills in the world of programming!</p>
