@@ -36,7 +36,7 @@
 
 
   
-  <p>Databases</p>
+  <p>Database</p>
 
 <img align="center" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
