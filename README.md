@@ -6,8 +6,6 @@
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofilipe-dev&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-
 ## Skills!!!
 
 <div>
@@ -19,8 +17,6 @@
 
 <img align="center" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-
-  
   <p>BackEnd</p>
 
   <img align="center" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -31,11 +27,6 @@
 
   <img align="center" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-
-
-
-
-  
   <p>Database</p>
 
 <img align="center" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
